@@ -8,13 +8,50 @@
     padding-bottom:50px;
 }
 
+h6{
+    color: #D4D5D7;
+}
+
+hr{
+    background-color: #DECAB0;
+}
+
+img{
+    height: 50%;
+    width: 75%;
+}
+
+li{
+    color:#F1F1EE;
+}
+
+p{
+    text-align: left;
+    color:#F1F1EE;
+}
+
 td{
     padding: 10px;
     border: 5px;
-    border-radius: 5px;
+    border-radius: 1px;
+}
+
+.container{
+    background-color:#48515B;
+    color: whitesmoke;
 }
 
 .td-fill{
     margin: 2px;
-    background-color:limegreen;
+    background-color:#C4DEB0;
 }
+
+.non-adjust-pic{
+    height: 100%;
+    width: 100%;
+}
+
+/* .row{
+    background-color:#48515B;
+    color: whitesmoke;
+} */
