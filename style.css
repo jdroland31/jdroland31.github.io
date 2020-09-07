@@ -1,5 +1,5 @@
 #project-body{
-    margin:5px;
+    
     background-color: lightsteelblue;
 }
 
@@ -17,7 +17,7 @@ hr{
 }
 
 img{
-    height: 50%;
+    height: 60%;
     width: 75%;
 }
 
@@ -37,6 +37,7 @@ td{
 }
 
 .container{
+    margin:5px;
     background-color:#48515B;
     color: whitesmoke;
 }
